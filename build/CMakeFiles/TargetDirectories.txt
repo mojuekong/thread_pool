@@ -1,0 +1,3 @@
+/home/ly/Desktop/git/thread_pool/build/CMakeFiles/rebuild_cache.dir
+/home/ly/Desktop/git/thread_pool/build/CMakeFiles/edit_cache.dir
+/home/ly/Desktop/git/thread_pool/build/CMakeFiles/thread_pool.dir

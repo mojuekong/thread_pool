@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ly/Desktop/git/thread_pool/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/thread_pool.dir/main.cpp.o -c /home/ly/Desktop/git/thread_pool/main.cpp",
+  "file": "/home/ly/Desktop/git/thread_pool/main.cpp"
+}
+]

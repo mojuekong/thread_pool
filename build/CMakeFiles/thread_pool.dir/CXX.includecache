@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ly/Desktop/git/thread_pool/main.cpp
+stdio.h
+-
+threadpool.h
+/home/ly/Desktop/git/thread_pool/threadpool.h
+threadpool.hpp
+/home/ly/Desktop/git/thread_pool/threadpool.hpp
+
+/home/ly/Desktop/git/thread_pool/threadpool.h
+stdio.h
+-
+string.h
+-
+pthread.h
+-
+stdlib.h
+-
+
+/home/ly/Desktop/git/thread_pool/threadpool.hpp
+cstdio
+-
+cstring
+-
+cstdlib
+-
+list
+-
+pthread.h
+-
+
